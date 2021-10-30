@@ -10,8 +10,10 @@ Adds a button that allows toggling current game activity status on Discord.
 
 ### Game Status Enabled
 
-![enablestatus](/res/enablestatus.png)
+![statusenabled1](/res/statusenabled1.png)
+![statusenabled1](/res/statusenabled2.png)
 
 ### Game Status Disabled
 
-![disablestatus](/res/disablestatus.png)
+![statusdisabled1](/res/statusdisabled1.png)
+![statusdisabled1](/res/statusdisabled2.png)
