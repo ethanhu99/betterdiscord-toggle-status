@@ -9,7 +9,9 @@ Adds a button that allows toggling current game activity status on Discord.
 2. Clone repository or download files to "C:\Users\YOUR_USER\AppData\Roaming\BetterDiscord\plugins"
 
 Game Status Enabled
+
 ![enablestatus](/res/enablestatus.png)
 
 Game Status Disabled
+
 ![disablestatus](/res/disablestatus.png)
