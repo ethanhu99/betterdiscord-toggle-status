@@ -1,15 +1,9 @@
 /**
- * @name GameActivityToggle
- * @author DevilBro
- * @authorId 278543574059057154
- * @version 1.0.4
- * @description Adds a Quick-Toggle Game Activity Button
- * @invite Jx3TjNS
- * @donate https://www.paypal.me/MircoWittrien
- * @patreon https://www.patreon.com/MircoWittrien
- * @website https://mwittrien.github.io/
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/GameActivityToggle/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Plugins/GameActivityToggle/GameActivityToggle.plugin.js
+ * @name ToggleGameStatus
+ * @author Mobiaz
+ * @version 1.1.3
+ * @description Hides side bars in discord
+ * @website https://github.com/ethanhu99
  */
 
 module.exports = (_ => {
