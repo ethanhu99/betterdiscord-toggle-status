@@ -2,7 +2,7 @@
 
 Adds a button that allows toggling current game activity status on Discord.
 
-## Usage
+## Installation and Usage
 
 1. Download BetterDiscord [https://betterdiscord.app/](https://betterdiscord.app/)
 
